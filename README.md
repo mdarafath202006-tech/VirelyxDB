@@ -2,6 +2,8 @@
 
 VirelyxDB is a tiny relational storage-engine learning project written in Python. It provides table schemas, JSON-backed durable storage, insert/select/update/delete operations, equality indexes, and a write-ahead log (WAL) recovery path.
 
+**Browser preview:** [virelyxdb-mdarafath202006.vercel.app](https://virelyxdb-mdarafath202006.vercel.app/). The hosted page is a standalone UI simulation using browser-side state; it is not connected to the Python storage engine.
+
 ## Requirements
 Python 3.10+. No third-party dependencies.
 
